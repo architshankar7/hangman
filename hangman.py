@@ -1,6 +1,6 @@
 #To do list
 #1. 
-#2. in wordle project make alternative capital letter for green, lowercse for yellow, underscore for incorrect
+#2.
 import random
 import os
 #print hangman function
